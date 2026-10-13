@@ -49,7 +49,8 @@ CampusPulse AI/
 │   ├── predict.py
 │   ├── topic_analysis.py
 │   ├── complaint_analysis.py
-│   ├── complaint_themes.py
+│   ├── complaint_themes.py│   ├── evaluation.py
+│   └── inspect_data.py
 │   └── recommendations.py
 ├── tests/
 │   └── test_predictions.py
